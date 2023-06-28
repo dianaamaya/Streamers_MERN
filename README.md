@@ -1,6 +1,6 @@
-# Streamers ReactJS + Context + NodeJS + MongoDB
+# Streamers ReactJS + Context + NodeJS + MongoDB + Real Time
 
-This application allows users to create/read/update streamers. This project was developed with JavaScript, ReactJS, Context, Axios, Tailwind, Toaster, react-hook-form, react-router-dom, NodeJS, Express, MongoDb, Joi, Vite, Eslint, Prettier.
+This application allows users to create/read/update streamers. This project was developed with Sockect.io, JavaScript, ReactJS, Context, Axios, Tailwind, Toaster, react-hook-form, react-router-dom, NodeJS, Express, MongoDb, Joi, Vite, Eslint, Prettier.
 
 ### Installation
 

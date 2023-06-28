@@ -7,11 +7,11 @@ This application allows users to create/read/update streamers. This project was 
 * A mongodb database connection is required ()
 
 ```
-git clone git@github.com:dianaamaya/Streamers_MERN.git
+git clone https://github.com/dianaamaya/Streamers_MERN.git
 cd Streamers_MERN
 npm install
 npm run dev
-in other terminal window
+in a new terminal window
 cd .\client
 npm install
 npm run dev

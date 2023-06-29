@@ -8,10 +8,10 @@ This application allows users to create/read/update streamers. This project was 
 * Do not forget to add a .env file at root of the folder with this data:
 
 ```
-  {
-    PORT=3000
-    MONGODB_URI=YOUR_DATABASE_CONNECTION_URL
-  }
+  
+PORT=3000
+MONGODB_URI=YOUR_DATABASE_CONNECTION_URL
+  
 ```
 
 ```
